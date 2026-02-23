@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Sakura",
+  "base_artist": "Myuk",
+  "createdAt": "2026-02-23T17:09:23.729600Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sakura",
+      "artist": "Light Leak",
+      "has_synced": false,
+      "path": "select/01_Sakura_Light_Leak.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Identity (Zaxx Remix) - Sakura Chill Beats Singles",
+      "artist": "Kiro Akiyama",
+      "has_synced": false,
+      "path": "select/02_Identity_(Zaxx_Remix)_-_Sakura_Chill_Beats_Singles_Kiro_Akiyama.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sakura",
+      "artist": "Section 25",
+      "has_synced": false,
+      "path": "select/03_Sakura_Section_25.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SAKURA",
+      "artist": "ROSALÍA",
+      "has_synced": true,
+      "path": "select/04_SAKURA_ROSALÍA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sakura",
+      "artist": "Giuni Russo",
+      "has_synced": true,
+      "path": "select/05_Sakura_Giuni_Russo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nadeshiko sakura",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/06_Nadeshiko_sakura_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Haikei Sakura Maichiru Kono Hi Ni",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/07_Haikei_Sakura_Maichiru_Kono_Hi_Ni_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sakura",
+      "artist": "R3HAB",
+      "has_synced": false,
+      "path": "select/08_Sakura_R3HAB.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sakura",
+      "artist": "R3HAB",
+      "has_synced": true,
+      "path": "select/09_Sakura_R3HAB.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sakura",
+      "artist": "Myuk",
+      "has_synced": false,
+      "path": "select/pl_01_Sakura_Myuk.txt"
+    }
+  ]
+}
